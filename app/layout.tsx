@@ -13,7 +13,7 @@ const font = Open_Sans({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Kreisco',
-  description: 'Master trading with Kreisco',
+  description: 'LMS Platform',
 }
 
 export default function RootLayout({
